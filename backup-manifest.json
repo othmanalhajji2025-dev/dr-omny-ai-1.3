@@ -1,0 +1,148 @@
+{
+  "gen": "dr-omni-ai",
+  "time": 1789747521770,
+  "saveCount": 27,
+  "manifest": {
+    "README.md": {
+      "pending": true,
+      "size": 49893
+    },
+    "WorldHospitals/hospitals.csv.gz": {
+      "key": "b1c723b9c7385591bacb5c0596df8016.gz",
+      "size": 502895
+    },
+    "YemenMd_tables/android_metadata.csv": {
+      "key": "f574d1217b24c480a17adfa6b1283cc0.txt",
+      "size": 12
+    },
+    "YemenMd_tables/articles.csv": {
+      "key": "085f5318582fa8b34fa6b1dcaad9a1e4.txt",
+      "size": 547157
+    },
+    "YemenMd_tables/commercial_medicines.csv.gz": {
+      "key": "6611898d72c5616075add3fa3dbe65f7.gz",
+      "size": 736985
+    },
+    "YemenMd_tables/companies.csv": {
+      "key": "a35ad25d6f5a2ed354bed092ac6095ab.txt",
+      "size": 72647
+    },
+    "YemenMd_tables/crews.csv": {
+      "key": "631f72604ee1ed937fffd99235fbad42.txt",
+      "size": 31773
+    },
+    "YemenMd_tables/drug_categories.csv": {
+      "key": "e5b68ec437a03b9d3795488696e4c3b3.txt",
+      "size": 7865
+    },
+    "YemenMd_tables/drug_manufacturers.csv": {
+      "key": "3c5ed88c2ebc00de492f8e4ed2ef4e96.txt",
+      "size": 165255
+    },
+    "YemenMd_tables/establishments.csv": {
+      "key": "9ef4e98b075992983473c3672e49c9bb.txt",
+      "size": 597727
+    },
+    "YemenMd_tables/governorates.csv": {
+      "key": "66b579eed22fe6ecff4f92a7427370ae.txt",
+      "size": 1629
+    },
+    "YemenMd_tables/images.csv": {
+      "key": "5a92cdf3a219fe13f1faa77a75f349cb.txt",
+      "size": 430
+    },
+    "YemenMd_tables/main_ads.csv": {
+      "key": "85c5f98c7998028302961ee8de4eef32.txt",
+      "size": 107
+    },
+    "YemenMd_tables/news.csv": {
+      "key": "2de980c8652128fad100674c7b4567e4.txt",
+      "size": 269583
+    },
+    "YemenMd_tables/researches.csv": {
+      "key": "a3a0f36388298fcc475ab78529be16c9.txt",
+      "size": 353
+    },
+    "YemenMd_tables/scientific_medicines.csv": {
+      "key": "a120b24d937a9b06fbe048ee910596b4.txt",
+      "size": 739942
+    },
+    "YemenMd_tables/scientific_medicines_contraindications.csv": {
+      "key": "eeb9303031da00087c6b362545337e4c.txt",
+      "size": 355467
+    },
+    "YemenMd_tables/scientific_medicines_precautions.csv.gz": {
+      "key": "6ce8c329d14809112e2f4cb4fc557ed9.gz",
+      "size": 253239
+    },
+    "YemenMd_tables/scientific_medicines_side_effects.csv": {
+      "key": "689daa367932cb53041089debf696bfe.txt",
+      "size": 418284
+    },
+    "YemenMd_tables/scientific_medicines_usages.csv": {
+      "key": "ef1a2032c71974a525b18a8027b779b4.txt",
+      "size": 329271
+    },
+    "YemenMd_tables/sliders.csv": {
+      "key": "c656c8370c345b86ee878eb4df5c35e8.txt",
+      "size": 316
+    },
+    "YemenMd_tables/specialties.csv": {
+      "key": "5680b91d43c3c2c1dbde5951344c804c.txt",
+      "size": 1722
+    },
+    "YemenMd_tables/support_establishments.csv": {
+      "key": "4adb86ade2034e29b1e65d1770e18032.txt",
+      "size": 46876
+    },
+    "YemenMd_tables/terms.csv.gz": {
+      "key": "2fa88ca4788f9494d26d35d6ef275502.gz",
+      "size": 938492
+    },
+    "YemenMd_tables/videos.csv": {
+      "key": "04f339c32faa15bc48a2ba5727fb61ed.txt",
+      "size": 1124
+    },
+    "app.js": {
+      "key": "b47cfdf0460963a1085934d31bfe53d4.js",
+      "size": 22355
+    },
+    "engine.js": {
+      "key": "aa0c5d1490bb4a352ab20c4c6b720ed9.js",
+      "size": 16625
+    }
+  },
+  "embedded": [
+    "README.md"
+  ],
+  "cdnReferences": [
+    "WorldHospitals/hospitals.csv.gz",
+    "YemenMd_tables/android_metadata.csv",
+    "YemenMd_tables/articles.csv",
+    "YemenMd_tables/commercial_medicines.csv.gz",
+    "YemenMd_tables/companies.csv",
+    "YemenMd_tables/crews.csv",
+    "YemenMd_tables/drug_categories.csv",
+    "YemenMd_tables/drug_manufacturers.csv",
+    "YemenMd_tables/establishments.csv",
+    "YemenMd_tables/governorates.csv",
+    "YemenMd_tables/images.csv",
+    "YemenMd_tables/main_ads.csv",
+    "YemenMd_tables/news.csv",
+    "YemenMd_tables/researches.csv",
+    "YemenMd_tables/scientific_medicines.csv",
+    "YemenMd_tables/scientific_medicines_contraindications.csv",
+    "YemenMd_tables/scientific_medicines_precautions.csv.gz",
+    "YemenMd_tables/scientific_medicines_side_effects.csv",
+    "YemenMd_tables/scientific_medicines_usages.csv",
+    "YemenMd_tables/sliders.csv",
+    "YemenMd_tables/specialties.csv",
+    "YemenMd_tables/support_establishments.csv",
+    "YemenMd_tables/terms.csv.gz",
+    "YemenMd_tables/videos.csv",
+    "app.js",
+    "engine.js"
+  ],
+  "omitted": [],
+  "note": "CDN references are not embedded. Omitted files need manual recovery; the manifest lists every desired src path."
+}
